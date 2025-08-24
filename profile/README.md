@@ -1,4 +1,4 @@
-# Mother PhOCAS
+# Mango Cats
 
 Undergraduate research group at *Center for Language Technologies*, College of Computer Studies, De La Salle University, Manila.
 
