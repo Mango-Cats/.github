@@ -1,6 +1,6 @@
 # Mango Cats
 
-Undergraduate research group at *Center for Language Technologies*, College of Computer Studies, De La Salle University, Manila.
+Undergraduate research group at _College of Computer Studies_, De La Salle University, Manila.
 
 Stephen Borja    [@OutForMilks](https://github.com/OutForMilks)     <br>
 Erin Chua        [@chua-e](https://github.com/chua-e)               <br>
@@ -16,6 +16,6 @@ Nathaniel Oco†                                                      <br>
 
 **Topics/Keywords**: String Similarity; Semantics, Orthography, Phonetics.
 
-## Research
+## Projects and Repositories
 
 - [`Mango-Cats/SemanticDrugSim`](https://github.com/Mango-Cats/SemanticDrugSim). Semantic similarity of generic drug names by unsupervised learning.
