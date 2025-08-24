@@ -1,12 +1,21 @@
-## Hi there 👋
+# Mother PhOCAS
 
-<!--
+Undergraduate research group at *Center for Language Technologies*, College of Computer Studies, De La Salle University, Manila.
 
-**Here are some ideas to get you started:**
+Stephen Borja    [@OutForMilks](https://github.com/OutForMilks)     <br>
+Erin Chua        [@chua-e](https://github.com/chua-e)               <br>
+Gideon Chua      [@hootawsneaks](https://github.com/hootawsneaks)   <br>
+Zhean Ganituen*  [@zrygan](https://github.com/zrygan)               <br>
+Nathaniel Oco†                                                      <br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+\* **Correspondence**. Talk to Zhean via [`zhean_robby_ganituen@dlsu.edu.ph`](mailto:zhean_robby_ganituen@dlsu.edu.ph). <br>
+† **Faculty Adviser**.
+
+## Research
+&nbsp;&nbsp;&nbsp;&nbsp;**Computing drug similarity**
+
+**Topics/Keywords**: String Similarity; Semantics, Orthography, Phonetics.
+
+## Research
+
+- [`MotherPhOCAS/SemanticDrugSim`](https://github.com/Thesis-Mother-PhOCAS/SemanticDrugSim). Semantic similarity of generic drug names by unsupervised learning.
