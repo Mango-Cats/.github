@@ -18,4 +18,4 @@ Nathaniel Oco†                                                      <br>
 
 ## Research
 
-- [`MotherPhOCAS/SemanticDrugSim`](https://github.com/Thesis-Mother-PhOCAS/SemanticDrugSim). Semantic similarity of generic drug names by unsupervised learning.
+- [`Mango-Cats/SemanticDrugSim`](https://github.com/Mango-Cats/SemanticDrugSim). Semantic similarity of generic drug names by unsupervised learning.
