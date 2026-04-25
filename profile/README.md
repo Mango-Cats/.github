@@ -1,4 +1,4 @@
-# Mango Cats
+# MangoCats
 
 Undergraduate research group at the **Center for Language Technologies**, College of Computer Studies, De La Salle University, Manila.
 
