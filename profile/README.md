@@ -34,3 +34,7 @@ This linguistic distance renders English-centric phonetic similarity measures un
 ### Other Projects
 
 - [`Mango-Cats/SemanticDrugSim`](https://github.com/Mango-Cats/SemanticDrugSim). Semantic similarity of generic drug names by unsupervised learning.
+
+---
+
+<img width="282" height="374" alt="image" src="https://github.com/user-attachments/assets/918000b3-71ba-4c24-b8c7-2866ca429865" />
