@@ -16,6 +16,17 @@ Medication errors arising from Look-Alike Sound-Alike (LASA) drug name confusion
 This linguistic distance renders English-centric phonetic similarity measures unreliable for local pharmaceutical safety screening. This study addresses this gap through three objectives: (1) establishing a cross-lingual transferability baseline by evaluating existing phonetic similarity measures on Philippine drug names, (2) developing a Filipino-aware Grapheme-to-Phoneme (G2P) algorithm that maps pharmaceutical name strings to IPA transcriptions reflecting Philippine English pronunciation patterns across the lectal continuum, and (3) adapting the ALINE phonetic similarity algorithm using Filipino phonological constraints to improve sound-alike drug name detection.
 
 ## Repositories
+
+### **ginger**
+- **repository**: https://github.com/Mango-Cats/ginger
+- **keywords**: `grapheme-to-phoneme`, `transformers`, `HuBERT`
+- **tl; dr**: A grapheme-to-phoneme model for Filipino using transformers and HuBERT.
+
+### **pho (🍜)**
+- **repository**: https://github.com/Mango-Cats/pho
+- **keywords**: `phonetic algorithms`, `genetic algorithm`, `Filipino phonology`
+- **tl; dr**: Phonetic algorithms and phonetic similarity measures are centered on Western languages. The goal of this project is to (1) localize popular phonetic similarity measures; and (2) learn a weighted sum of orthographic and phonetic measures for LASA detection.
+
 ### **TagaBaybay (ᜆᜄᜊᜌ᜔ᜊᜌ᜔)**
 - **repository**: https://github.com/Mango-Cats/tagabaybay
 - **keywords**: `orthographic nativization`, `loanword adaptation`, `Filipino`, `rule-based systems`, `low-resource NLP`
@@ -25,11 +36,6 @@ This linguistic distance renders English-centric phonetic similarity measures un
 - **repository**: https://github.com/Mango-Cats/walter
 - **keywords**: `large language models`, `dataset construction`, `drug names`
 - **tl; dr**: We need a dataset to evaluate the algorithm for automated detection of LASA drugs names in the Philippines. So, we will construct one by using an LLM-assisted approach with few-shot prompting and expert validation.
-
-### **pho (🍜)**
-- **repository**: https://github.com/Mango-Cats/pho
-- **keywords**: `phonetic algorithms`, `genetic algorithm`, `Filipino phonology`
-- **tl; dr**: Phonetic algorithms and phonetic similarity measures are centered on Western languages. The goal of this project is to (1) localize popular phonetic similarity measures; and (2) learn a weighted sum of orthographic and phonetic measures for LASA detection.
 
 ### Other Projects
 
